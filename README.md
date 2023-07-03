@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+## This Repo
+
+This simple web app was creating following this tutorial: [Getting started with Create React App](https://blog.logrocket.com/getting-started-with-create-react-app/)
+
+which is a quick lesson on the file structure and functionality of the project template provided when you use `create-react-app`
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
