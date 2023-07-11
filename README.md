@@ -14,7 +14,7 @@ which is a QUICK lesson on the file structure and functionality of the project t
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, YOU can run:
 
 ### `npm start`
 
