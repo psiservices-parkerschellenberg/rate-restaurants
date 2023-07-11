@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This simple web APP was creating following this tutorial: [Getting started with Create React App](https://blog.logrocket.com/getting-started-with-create-react-app/)
 
-which is a quick lesson on the file structure and functionality of the project template provided when you use `create-react-app`
+which is a QUICK lesson on the file structure and functionality of the project template provided when you use `create-react-app`
 
 
 
